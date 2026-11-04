@@ -1,2 +1,2 @@
-hostname Router1
+hostname Router-MAIN
 interface GigabitEthernet0/1

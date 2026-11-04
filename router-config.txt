@@ -1,2 +1,2 @@
-hostname Router1
+hostname Router-BRANCH
 interface GigabitEthernet0/1
